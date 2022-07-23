@@ -1,0 +1,25 @@
+.display_item button{
+    font-size: 30px;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+
+}
+.Details_enter{
+    cursor: pointer;
+    display: grid;
+    margin-left: 10px;
+    margin-bottom: 20rem;
+    margin-top: 10rem;
+    margin-right: 30px;
+    border: none;
+    background-color: white;
+    padding-bottom: 40px;
+    color: rgb(106, 106, 246);
+}
+.Details_enter:hover{
+    color: rgb(250, 10, 10);
+}
+

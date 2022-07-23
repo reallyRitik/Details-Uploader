@@ -1,0 +1,35 @@
+ .Show_From{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    border: 1px solid rgb(210, 15, 240);
+    padding: 50px;
+    margin: 20px;   
+    margin-left: 30rem;
+}
+.submit{
+    background-color: rgb(240, 209, 209);
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4rem;
+    margin-top: 40px;
+}
+
+
+button .submit:hover{
+    background: #666;
+    font-size: 27px;
+}
+.image_show{
+    margin-left: 87px;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px\;
+}
